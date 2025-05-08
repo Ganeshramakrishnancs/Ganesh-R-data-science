@@ -1,1 +1,0 @@
-# Ganesh-R-data-science
